@@ -1,0 +1,25 @@
+
+
+goestar@DESKTOP-NK94BL0 MINGW64 /d/공부/GitHub
+$ git init
+Initialized empty Git repository in D:/공부/GitHub/.git/
+
+goestar@DESKTOP-NK94BL0 MINGW64 /d/공부/GitHub (master)
+$ git remote add origin https://github.com/goestar/goe.git
+
+goestar@DESKTOP-NK94BL0 MINGW64 /d/공부/GitHub (master)
+$ git pull origin master
+fatal: couldn't find remote ref master
+
+goestar@DESKTOP-NK94BL0 MINGW64 /d/공부/GitHub (master)
+$ git status
+On branch master
+
+No commits yet
+
+nothing to commit (create/copy files and use "git add" to track)
+
+goestar@DESKTOP-NK94BL0 MINGW64 /d/공부/GitHub (master)
+$ git add .
+
+goestar@DESKTOP-NK94BL0 MINGW64 /d/공부/GitHub (master)
